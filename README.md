@@ -20,7 +20,7 @@ The project is used to show case the abilty to create a back end of a social med
 <br />
 This application is covered by the ISC license.
 
-## Live Video Demo
+## Live Video Demonstration
 
 https://drive.google.com/file/d/1ywKlLaNQLRTnmGxRyNVFVbhPeF0i0OLh/view
 
